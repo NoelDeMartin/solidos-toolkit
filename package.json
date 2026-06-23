@@ -2,7 +2,7 @@
   "name": "solidos-toolkit",
   "version": "0.0.0",
   "description": "Tooling for the SolidOS projects stack",
-  "repository": "github:SolidOS/toolkit",
+  "repository": "github:NoelDeMartin/solidos-toolkit",
   "files": [
     "dist"
   ],
